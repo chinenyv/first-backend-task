@@ -1,0 +1,18 @@
+{
+  "name": "chinenye",
+  "version": "1.0.0",
+  "description": "TSI 2025 nodejs assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Chinenye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
